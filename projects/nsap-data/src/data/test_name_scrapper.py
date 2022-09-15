@@ -1,6 +1,6 @@
 import json
-from pathlib import Path
 import time
+from pathlib import Path
 
 #pip install selenium
 #pip install webdrivermanager
@@ -14,7 +14,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
-
 
 # defining directories
 
